@@ -1,0 +1,27 @@
+{
+  "name": "ramoneando",
+  "version": "1.0.0",
+  "description": "ramonear es comer la punta de las ramas de los árboles",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "into the future"
+  },
+  "keywords": [
+    "mystery",
+    "awesome",
+    "web",
+    "site"
+  ],
+  "author": "author",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-edge": "^2.0.2",
+    "nodemon": "^2.0.2",
+    "startbootstrap-clean-blog": "^5.0.8"
+  }
+}
